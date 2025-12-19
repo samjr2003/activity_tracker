@@ -51,23 +51,23 @@ A comprehensive user activity monitoring and analytics platform built with PHP, 
 
 ## 📸 Screenshots
 
-### LoginPage
-![LoginPage](screenshots/LoginPage.png)
+### Login Page
+![LoginPage](Screenshots/LoginPage.png)
 
-### RegisterPage
-![RegisterPage](screenshots/RegisterPage.png)
+### Register Page
+![RegisterPage](Screenshots/RegisterPage.png)
 
-### UserDashboard
-![UserDashboard](screenshots/UserDashboard.png)
+### User Dashboard
+![UserDashboard](Screenshots/UserDashboard.png)
 
-### AdminDashboard
-![AdminDashboard](screenshots/AdminDashboard.png)
+### Admin Dashboard
+![AdminDashboard](Screenshots/AdminDashboard.png)
 
-### AdminPanel
-![AdminPanel](screenshots/AdminPanel.png)
+### Admin Panel
+![AdminPanel](Screenshots/AdminPanel.png)
 
-### UserActivities
-![UserActivities](screenshots/UserActivities.png)
+### User Activities
+![UserActivities](Screenshots/UserActivities.png)
 
 ## 🛠️ Setup Instructions
 
@@ -167,6 +167,6 @@ Use the following credentials to log in to the application:
 
 ### 👑 Admin Account
 **Email:** admin@tracker.com  
-**Password:** admin123
+**Password:** password
 
 > ⚠️ *These credentials are for testing/demo purposes only. 
